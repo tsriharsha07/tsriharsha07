@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sriharsha Thonukunuri</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="Coding" width="400">
-- 🌱 I’m currently learning **Front end Development**
+- 🌱 I’m currently working on **Front end Development**
 
-- 💬 Ask me about **React Bootstrap**
-- 🤔 I’m currently looking for an internship where I can work on real life projects
+- 💬 Ask me about **React, Bootstrap**
+
 
 - 📫 How to reach me: **tsriharsha07@gmail.com**
 
