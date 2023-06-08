@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriharsha</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 <img src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="Coding" width="400">
 
 - 🔭 I’m currently working on **MERN Stack**
