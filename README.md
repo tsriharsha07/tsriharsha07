@@ -2,13 +2,11 @@
 <h3 align="center">A passionate MERN Stack developer</h3>
 <img src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="Coding" width="400">
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Reactjs and Nodejs**
 
-- 🌱 I’m currently learning **MySQL, PHP**
+- 🌱 I’m currently learning **MSSQL**
 
 - 👨‍💻 All of my projects are available at [https://sriharsha-portfolio.vercel.app/](https://sriharsha-portfolio.vercel.app/)
-
-- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **tsriharsha07@gmail.com**
 
